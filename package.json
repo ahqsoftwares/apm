@@ -1,0 +1,16 @@
+{
+  "name": "apm",
+  "version": "0.0.1",
+  "description": "A package manager faster than yarn",
+  "main": "index.js",
+  "repository": "https://github.com/ahqsoftwares/apm.git",
+  "author": "AHQ Softwares",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "download-git-repo": "^3.0.2"
+  },
+  "devDependencies": {
+    "yarn": "^1.22.19"
+  }
+}
